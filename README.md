@@ -165,10 +165,7 @@ wget https://github.com/faroit/udons/releases/download/submission-v1/epoch_951.c
 ```
 
 
-## Example Notebook
+## Todo
 
-github repos
-data wget locations
 explanations about the different groups etc
-Licenses
 colab to run a model

@@ -9,57 +9,46 @@ We pin to git SHAs used in the ompetition leaderboard.
 #### GURA.avg_hubert_crepe
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.avg_hubert_wav2vec2
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.avg_xwc
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.cat_hubert_wav2vec2
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.cat_wc
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.cat_xwc
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.fusion_cat_xwc
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.fusion_cat_xwc_time
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.fusion_hubert_xlarge
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.fusion_wav2vec2
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### GURA.hubert_xlarge
 ```
 pip install git+https://github.com/tony10101105/HEAR-2021-NeurIPS-Challenge---NTU.git@7b7ce730d23232cec85698728fd1048800764d06
-wget 
 ```
 #### audio_dbert
 ```
@@ -79,32 +68,28 @@ wget https://github.com/kkoutini/PaSST/releases/download/v0.0.1-audioset/passt-s
 #### hear21passt.base2level
 ```
 pip install git+https://github.com/kkoutini/passt_hear21.git@5487d2f4b7782e2879dbf6fd0b1135a5b137b106
-wget 
 ```
 #### hear21passt.base2levelmel
 ```
 pip install git+https://github.com/kkoutini/passt_hear21.git@5487d2f4b7782e2879dbf6fd0b1135a5b137b106
-wget 
 ```
 #### hearaudiomlp.audiomlp
 ```
 pip install git+https://github.com/ID56/HEAR-2021-Audio-MLP.git@292c77c92468beff9292e9892742e9b1fcecfcab
-wget https://drive.google.com/uc?id=16b96Ske0yhHE99U708lzQ_ob5KxHukiP&export=download
+gdown https://drive.google.com/uc?id=16b96Ske0yhHE99U708lzQ_ob5KxHukiP&export=download
 ```
 #### hearaudiomlp.kwmlp
 ```
 pip install git+https://github.com/ID56/HEAR-2021-Audio-MLP.git@292c77c92468beff9292e9892742e9b1fcecfcab
-wget https://drive.google.com/uc?id=1-49LCU_zJODhmaXXJnjzsfr0ukCtHzRg&export=download
+gdown https://drive.google.com/uc?id=1-49LCU_zJODhmaXXJnjzsfr0ukCtHzRg&export=download
 ```
 #### hearbaseline.torchcrepe
 ```
 pip install git+https://github.com/neuralaudio/hear-baseline.git@4478f9fd0d6cbc47fd06c66203b0340d1b5da1ad
-wget 
 ```
 #### hearbaseline.wav2vec2
 ```
 pip install git+https://github.com/neuralaudio/hear-baseline.git@4478f9fd0d6cbc47fd06c66203b0340d1b5da1ad transformers==4.16.1 --no-deps
-wget 
 ```
 #### hearline
 ```
@@ -114,17 +99,16 @@ wget https://raw.githubusercontent.com/ibkuroyagi/hear2021-submit/main/saved_mod
 #### my_model
 ```
 pip install git+https://github.com/KinWaiCheuk/my_package.git@8d557f0594c22d281dbb1fa07b34d2aa0caff6aa torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchtext==0.10.0 -f https://download.pytorch.org/whl/cu111/torch_stable.html
-wget https://drive.google.com/uc?id=1k9EMmw1Wa5xPswyp4lcw2LYmtn63eAhg
+gdown https://drive.google.com/uc?id=1k9EMmw1Wa5xPswyp4lcw2LYmtn63eAhg
 ```
 #### openl3_hear
 ```
 pip install git+https://github.com/marl/openl3-hear.git@cfb656500517105f440cd31eac9f063680f85dc8 torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchtext==0.10.0 -f https://download.pytorch.org/whl/cu111/torch_stable.html
-wget 
 ```
 #### panns_hear
 ```
 pip install git+https://github.com/qiuqiangkong/HEAR2021_Challenge_PANNs.git@daae61a072d0102ef224e5c7c4038bf5960c43c5
-wget https://zenodo.org/record/3987831/files/Cnn14_DecisionLevelMax_mAP%3D0.385.pth?download=1
+gdown https://zenodo.org/record/3987831/files/Cnn14_DecisionLevelMax_mAP%3D0.385.pth?download=1
 ```
 #### serab_byols
 ```
@@ -139,17 +123,15 @@ wget https://github.com/faroit/udons/releases/download/submission-v1/epoch_951.c
 #### wav2clip_hear
 ```
 pip install git+https://github.com/hohsiangwu/wav2clip-hear.git@5f83917b6b378591ef93e2c0185662cba2dd9c7e
-wget 
 ```
 #### wav2vec2_ddsp
 ```
 pip install git+https://github.com/guozixunnicolas/HEAR_2021_NeurIPS_Challenge_SUTD_AMAAI.git@b9e8a1ec04829b3c76fe9dadf7aab332e0ca0aa4
-wget https://drive.google.com/u/0/uc?id=1XkKZDEy7GmJP9y0HtvqQ9XhpxVoTm25e&export=download
+gdown https://drive.google.com/u/0/uc?id=1XkKZDEy7GmJP9y0HtvqQ9XhpxVoTm25e&export=download
 ```
 #### yamnet_hear
 ```
 pip install git+https://github.com/soundsensing/yamnet-hear.git@3b28854c1d8dd5e93fb418bea1ca4e7d27e1181a
-wget 
 ```
 
 ### Licenses

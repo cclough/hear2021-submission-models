@@ -164,8 +164,13 @@ pip install git+https://github.com/faroit/udons.git@693b3624d9c5996793a3b7d3d9e9
 wget https://github.com/faroit/udons/releases/download/submission-v1/epoch_951.ckpt
 ```
 
+## Notebook Demo
+
+This notebook demonstrates how to install any model, and evaluate it on any HEAR 2021 task:
+
+https://colab.research.google.com/drive/1-0N9t-lWgWQ8ET3M0nRcOMfE6E7I7ATi?usp=sharing
 
 ## Todo
 
-* explanations about the different groups
-* colab link to run a model on a task
+* Explanations about the different groups
+

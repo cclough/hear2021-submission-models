@@ -2,9 +2,9 @@
 
 Install and run any submitted model from the HEAR 2021 NeurIPS competition.
 
-We pin to git SHAs used in the ompetition leaderboard.
+Model repos are pinned to SHAs used in the competition.
 
-## Model Github Repos & Weights
+## Install Models
 
 ### Team: AMAAI
 License: Apache 2.0 and CC4-Attribution.

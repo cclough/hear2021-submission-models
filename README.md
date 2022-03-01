@@ -167,5 +167,5 @@ wget https://github.com/faroit/udons/releases/download/submission-v1/epoch_951.c
 
 ## Todo
 
-* explanations about the different groups etc
-* colab to run a model
+* explanations about the different groups
+* colab link to run a model on a task
